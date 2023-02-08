@@ -1,0 +1,12 @@
+# Créé par https://www.toptal.com/developers/gitignore/api/codeblocks
+# Modifier sur https://www.toptal.com/developers/gitignore?templates=codeblocks
+
+### Blocs de code ###
+# spécifique à CodeBlocks IDE
+*.mise en page
+*.dépendre
+# répertoires générés
+poubelle/
+obj/
+
+# Fin de https://www.toptal.com/developers/gitignore/api/codeblocks 
